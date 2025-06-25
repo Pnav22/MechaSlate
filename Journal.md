@@ -34,7 +34,13 @@ Total time spent: 60 mins
 
 ##June 21: Making the schematics
 
+![image](https://github.com/user-attachments/assets/bdc40540-bcfa-4218-b22b-1539af9df3dd)
+
 
 was very painfull to try and get everything organized 
-Total time spent 60 mins. 
+Total time spent 90 mins. 
+
+
+##June 21: Making the PCB
+I didnt want to manually move each sqaure. So im trying to find a better solution. probably a plugin. 
 
