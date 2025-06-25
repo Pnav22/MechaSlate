@@ -1,8 +1,8 @@
 ---
-title: "MechaSlate"
-author: "Pranav M"
+title: "Mecha Slate"
+author: "Pranav Mukkara"
 description: "Custom Built Keyboard"
-created_at: "2025-06-25"
+created_at: "2025-06-20"
 ---
 
 **Total Time Spent: 620 minutes (10.33 hours)**
