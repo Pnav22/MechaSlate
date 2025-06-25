@@ -48,5 +48,20 @@ used a json file
 this is hopefully what it should look like 
 ![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
 
-This is the most painfull thing I have dome so far. the wiring was a absoulte pain in the but
+This is the most painfull thing I have dome so far. the wiring was a absoulte pain in the butt
 ![image](https://github.com/user-attachments/assets/ff8a41f1-4699-4f70-8595-96dc0564c0b0)
+
+
+##June 25: Making the cad
+this should be the easiest part
+
+
+back  done 
+
+![image](https://github.com/user-attachments/assets/a3622311-2f57-4e30-843a-bcb4fbbe01a6)
+
+Front done 
+![image](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d)
+
+now just assembly 
+
