@@ -43,4 +43,8 @@ Total time spent 90 mins.
 
 ##June 21: Making the PCB
 I didnt want to manually move each sqaure. So im trying to find a better solution. probably a plugin. 
+Found a plugin to use. It was a absoulte pain to use. 
+used a json file
+this is hopefully what it should look like 
+![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
 
