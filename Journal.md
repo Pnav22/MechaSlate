@@ -5,7 +5,7 @@ description: "Custom Built Keyboard"
 created_at: "2025-06-20"
 ---
 
-**Total Time Spent: 620 minutes (10.33 hours)**
+**Total Time Spent: 680 minutes (11.33 hours)**
 
 ---
 
@@ -15,7 +15,9 @@ So this is my first time making a keyboard. I had zero experience. I first learn
 Link here: https://www.youtube.com/watch?v=8WXpGTIbxlQ&ab_channel=JoeScotto  
 Here is some sample circuits I made from his tutorial.
 
-### PCB  
+**Total Time Spent: 60 mins**
+
+### created practice PCBs  
 | PCB | Schematic |
 |:-------------------------:|:-------------------------:|
 | ![PCB Front](https://github.com/user-attachments/assets/fe14e158-7bf4-4130-a9e4-d2c2ffe600b3) | ![PCB Back](https://github.com/user-attachments/assets/0920f8ec-823d-4420-902b-3d1fbaa8548c) |
