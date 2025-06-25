@@ -65,3 +65,9 @@ Front done
 
 now just assembly 
 
+Finally finished the whole project. Manually put the keycaps in took very long 
+
+![image](https://github.com/user-attachments/assets/c05ccc66-1ff3-4efa-8257-af330fe5bb88)
+
+time spent 3 hrs
+
