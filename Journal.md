@@ -29,7 +29,12 @@ I made a intial sketch for the matrix. I decided to use the Ardunio Pro Micro fo
 
 ![image](https://github.com/user-attachments/assets/eb706fce-0594-4e8b-9120-f8f950bf33c4)
 
+edit: Im not doing the top row - the esc row
 Total time spent: 60 mins
 
 ##June 21: Making the schematics
+
+
+was very painfull to try and get everything organized 
+Total time spent 60 mins. 
 
