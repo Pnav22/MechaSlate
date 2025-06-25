@@ -48,3 +48,5 @@ used a json file
 this is hopefully what it should look like 
 ![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
 
+This is the most painfull thing I have dome so far. the wiring was a absoulte pain in the but
+![image](https://github.com/user-attachments/assets/02d7488d-3670-4470-bf2a-fbd56b520ac6)
