@@ -51,14 +51,14 @@ The top and bottom halves of the keyboard are fastened together using **four M3 
 | Item Name            | Item Source | Quantity | Cost (USD w/ shipping) |
 |----------------------|-------------|----------|-------------------------|
 | Akko V3 Creamy Blue  | Amazon      | 80       | $30.98                  |
-| PCB x5 (min quantity)| PCBWay      | –        | $105.00                 |
+| PCB x5 (min quantity)| PCBWay      | –        | $70.00                 |
 | 1N4148 Diodes        | Amazon      | 80       | $5.00                   |
 | Durock V3 Stabilizers| Amazon      | 8        | $15.00                  |
 | Heatset Inserts      | Amazon      | 4        | $7.00                   |
 | Nice_Nano_V2         | Amazon      | 1        | $15.00                  |
 | Keycaps              | Amazon      | 80       | $18.00                  |
 
-**Total Cost:** **$195.98**
+**Total Cost:** **$160.98**
 
 ---
 
