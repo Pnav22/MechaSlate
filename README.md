@@ -29,13 +29,21 @@ Back and front case modeled for print.
 |:--:|:--:|
 | ![Back](https://github.com/user-attachments/assets/a3622311-2f57-4e30-843a-bcb4fbbe01a6) | ![Front](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d) |
 
-####  Final Assembly
+####  Final Case
 Manually placed all keycaps and installed everything.
 
 ![Final Keyboard](https://github.com/user-attachments/assets/c05ccc66-1ff3-4efa-8257-af330fe5bb88)
 
 
 ---
+
+#### Assembly 
+
+It uses **threaded heat-set inserts (M3 x 5mm x 4mm)** for secure mounting. These inserts are installed into the case.
+
+The top and bottom halves of the keyboard are fastened together using **four M3 x 16mm socket head cap screws (SHCS)**.
+
+![image](https://github.com/user-attachments/assets/784755f5-6b19-4908-a6d8-1e86b115f63b)
 
 | Item Name            | Item Source | Quantity | Cost (USD w/ shipping) |
 |----------------------|-------------|----------|-------------------------|
