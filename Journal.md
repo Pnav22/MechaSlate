@@ -28,13 +28,17 @@ Here is some sample circuits I made from his tutorial.
 
 ## June 21: Initial Design
 
-This was kinda scary because I was so afraid of messing something up. I knew I wanted a keyboard with a rotary encoder and no number pad. Here is a reference:
+This was kinda scary because I was so afraid of messing something up. I knew I wanted a keyboard with  no number pad. Here is a reference:
 
 ![image](https://github.com/user-attachments/assets/5022cb00-1b8f-4f8d-9eed-496a488ff698)
 
 I made an initial sketch for the matrix. I decided to use the Arduino Pro Micro for my MCU.
 
 ![image](https://github.com/user-attachments/assets/eb706fce-0594-4e8b-9120-f8f950bf33c4)
+
+Decide to base my project off this keyboard: 
+![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
+
 
 _Edit: I'm not doing the top row – the ESC row._  
 **Total Time Spent: 60 mins**
