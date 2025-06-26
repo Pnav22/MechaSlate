@@ -7,10 +7,13 @@ by Pranav M
 ## Overview
 **MechaSlate** is my first custom mechanical keyboard project, created from scratch with no prior experience. This build taught me PCB design using KiCad, CAD modeling with Fusion 360, and the use of plugins and scripts to place keyswitches.
 
+
+
+I wanted to make this project so I could learn more about electronics and familiarize myself with more forms of engineering. It was really fun!
 ---
 
 ####  Initial Layout Planning
-I decided on wanting a keyboard like this 
+I decided on I wanted to make a keyboard like this 
 ![Layout](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
 
 #### PCB Design
