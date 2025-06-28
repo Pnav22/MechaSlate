@@ -30,7 +30,8 @@ Back and front case modeled for print.
 
 | Back | Front |
 |:--:|:--:|
-| ![Back](https://github.com/user-attachments/assets/a3622311-2f57-4e30-843a-bcb4fbbe01a6) | ![Front](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d) |
+| ![image](https://github.com/user-attachments/assets/88cfde82-cbc6-409b-9fb0-bf3d3b3a38a1) | ![Front](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d) |
+
 
 ####  Final Case
 Manually placed all keycaps and installed everything.
