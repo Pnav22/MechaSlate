@@ -138,3 +138,15 @@ After
 ![image](https://github.com/user-attachments/assets/90bada3f-7829-4f11-99c4-c6a45a3f47b8)
 
 **Time Spent: 30 mins**
+
+
+
+## June 28: Added a outer shell
+
+Before: 
+![image](https://github.com/user-attachments/assets/8829f1e7-9ce0-4376-b280-302a3d90065a)
+
+After:
+![image](https://github.com/user-attachments/assets/26860282-2167-47a4-bfdc-1829d6ed41c9)
+
+
