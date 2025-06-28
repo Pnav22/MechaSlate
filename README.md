@@ -30,7 +30,8 @@ Back and front case modeled for print.
 
 | Back | Front |
 |:--:|:--:|
-| ![image](https://github.com/user-attachments/assets/88cfde82-cbc6-409b-9fb0-bf3d3b3a38a1) | ![Front](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d) |
+| ![image](https://github.com/user-attachments/assets/d6e524bf-3629-4ce9-a2af-e25ade4eb677)| ![Front](https://github.com/user-attachments/assets/c723ca9a-8d94-49c9-b8a2-eebfd8053d2d) |
+
 
 Added a staggering Slot pattern for the back!
 
