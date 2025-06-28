@@ -5,7 +5,7 @@ description: "Custom Built Keyboard"
 created_at: "2025-06-20"
 ---
 
-**Total Time Spent: 810 minutes (13.5 hours)**
+**Total Time Spent: 840 minutes (14 hours)**
 
 ---
 
@@ -124,3 +124,17 @@ Finally finished the whole project. Manually putting the keycaps in took very lo
 
 It took so long because I manually inserted and moved every switch and key. Not a good idea for the future. 
 **Time Spent: 240 mins**
+
+
+## June 28: updated the case
+
+Added a staggering slot pattern to the case to save more filament. 
+
+Before:
+![image](https://github.com/user-attachments/assets/618eca3f-6b7b-4698-89ae-292d325c6929)
+
+After 
+
+![image](https://github.com/user-attachments/assets/90bada3f-7829-4f11-99c4-c6a45a3f47b8)
+
+**Time Spent: 30 mins**
