@@ -5,7 +5,7 @@ description: "Custom Built Keyboard"
 created_at: "2025-06-20"
 ---
 
-**Total Time Spent: 680 minutes (11.33 hours)**
+**Total Time Spent: 840 minutes (14 hours)**
 
 ---
 
@@ -28,7 +28,7 @@ Here is some sample circuits I made from his tutorial.
 
 ## June 21: Initial Design
 
-This was kinda scary because I was so afraid of messing something up. I knew I wanted a keyboard with a rotary encoder and no number pad. Here is a reference:
+This was kinda scary because I was so afraid of messing something up. I knew I wanted a keyboard with  no number pad. Here is a reference:
 
 ![image](https://github.com/user-attachments/assets/5022cb00-1b8f-4f8d-9eed-496a488ff698)
 
@@ -36,37 +36,74 @@ I made an initial sketch for the matrix. I decided to use the Arduino Pro Micro 
 
 ![image](https://github.com/user-attachments/assets/eb706fce-0594-4e8b-9120-f8f950bf33c4)
 
+Decide to base my project off this keyboard: 
+![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
+
+
 _Edit: I'm not doing the top row – the ESC row._  
+
+I dont know how mechanical keyboards work so I did a little research on this stuff. Apparently it doesnt seem so hard to make? I think I could make this easily. 
+_Edit: This was so hard. It is so so hard to engineer stuff :( But I kinda like the struggle _
+![image](https://github.com/user-attachments/assets/49211bdb-7b2f-44fb-89b5-5081d8bbe36e)
+
+
 **Total Time Spent: 60 mins**
 
 ---
 
 ## June 21: Making the Schematics
+_Edit: I decided to do the esc row again _
+
+So I made this schematic. I used a json file and free tool online to make it. It was convient and it gave me this. 
+![Screenshot 2025-06-25 142915](https://github.com/user-attachments/assets/34225385-e449-4b23-acfc-49091696b969)
+So far so good lets move on.
+**Total Time Spent: 30 mins**
+
+## June 21: Making the pcb
+Disaster struck. For some reason the schematic was so buns I could barely make the pcb. The schematic was missing things and their were just a whole bunch of errors. 
+![Screenshot 2025-06-25 155947](https://github.com/user-attachments/assets/67dccc9c-11da-4330-948e-d6331cfed35f)
+
+I spent like a hour trying to troubleshoot. I installed, reinstalled, i did all the librarys again and i searched online. Massive waste of time.
+
+**Total Time Spent: 90 mins**
+
+
+## June 22: Restarting
+So I made so many mistakes and everything that i thought it would be easier to just restart from scratch. 
+So i delted everything - very painfull 
+and redid the schematic. 
+
+
+
 
 ![image](https://github.com/user-attachments/assets/bdc40540-bcfa-4218-b22b-1539af9df3dd)
 
-Was very painful to try and get everything organized.  
-**Total Time Spent: 90 mins**
+Was very painful to do this again. BUT LOOK. SO PRETTY
 
-_Edit: I'm  doing the top row now. the ESC row._  
+Something I learned is that you should keep everything bevel and straight. When I duplicated the switches they would shift down slightly or up. this made wiring so hard I decided to wipe and create a schematic where everything was on the same level so i could wire with straight lines. - something to learn for the future. 
+
+**Total Time Spent: 60 mins**
+
 
 ---
 
-## June 21: Making the PCB
+## June 21: Remaking the PCB
 
 I didn’t want to manually move each square, so I’m trying to find a better solution—probably a plugin.  
 Found a plugin to use. It was an absolute pain to use.  
 Used a JSON file.  
-This is hopefully what it should look like:
+This is hopefully what it should look like perfect:
 
-![image](https://github.com/user-attachments/assets/375b4509-4335-4047-8f0a-fa6b8db1fd74)
 
 This is the most painful thing I have done so far. The wiring was an absolute pain in the butt.
 
-![image](https://github.com/user-attachments/assets/ff8a41f1-4699-4f70-8595-96dc0564c0b0)
+![image](https://github.com/user-attachments/assets/746c39b6-2719-4e80-a50a-436dbb346b28)
+
+So much better than the last PCB
+but look its so pretty. I added a angry face to it aswl. I really like how it turned out. 
 
 Most of this time was spent on trying to use the plugin. 
-**Time Spent: 200 mins**
+**Time Spent: 180 mins**
 ---
 
 ## June 25: Making the CAD
@@ -85,4 +122,19 @@ Finally finished the whole project. Manually putting the keycaps in took very lo
 
 ![image](https://github.com/user-attachments/assets/c05ccc66-1ff3-4efa-8257-af330fe5bb88)
 
-**Time Spent: 180 mins**
+It took so long because I manually inserted and moved every switch and key. Not a good idea for the future. 
+**Time Spent: 240 mins**
+
+
+## June 28: updated the case
+
+Added a staggering slot pattern to the case to save more filament. 
+
+Before:
+![image](https://github.com/user-attachments/assets/618eca3f-6b7b-4698-89ae-292d325c6929)
+
+After 
+
+![image](https://github.com/user-attachments/assets/90bada3f-7829-4f11-99c4-c6a45a3f47b8)
+
+**Time Spent: 30 mins**
