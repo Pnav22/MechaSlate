@@ -11,6 +11,7 @@ by Pranav M
 
 I wanted to make this project so I could learn more about electronics and familiarize myself with more forms of engineering. It was really fun!
 ---
+![image](https://github.com/user-attachments/assets/21394ca3-6064-471e-9dbd-c122c35a708c)
 
 ####  Initial Layout Planning
 I decided on I wanted to make a keyboard like this 
@@ -38,7 +39,8 @@ Added a staggering Slot pattern for the back!
 ####  Final Case
 Manually placed all keycaps and installed everything.
 
-![Final Keyboard](https://github.com/user-attachments/assets/c05ccc66-1ff3-4efa-8257-af330fe5bb88)
+![image](https://github.com/user-attachments/assets/c20fc473-de06-49ee-a292-bc3735cc8e52)
+
 
 
 ---
@@ -48,7 +50,9 @@ Manually placed all keycaps and installed everything.
 It uses **threaded heat-set inserts (M3 x 5mm x 4mm)** for secure mounting. These inserts are installed into the case.
 
 The top and bottom halves of the keyboard are fastened together using **four M3 x 16mm socket head cap screws .
-![image](https://github.com/user-attachments/assets/020e2c2d-5075-4eb0-bcbf-2045da7db447)
+![image](https://github.com/user-attachments/assets/956c341f-bb28-4eac-b060-3b52cfdd409b)
+
+
 
 
 

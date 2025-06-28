@@ -5,7 +5,7 @@ description: "Custom Built Keyboard"
 created_at: "2025-06-20"
 ---
 
-**Total Time Spent: 840 minutes (14 hours)**
+**Total Time Spent: 900 minutes (15 hours)**
 
 ---
 
@@ -138,3 +138,21 @@ After
 ![image](https://github.com/user-attachments/assets/90bada3f-7829-4f11-99c4-c6a45a3f47b8)
 
 **Time Spent: 30 mins**
+
+
+
+## June 28: Added a outer shell - gasket mound
+
+
+Added a gasket mount for more stability
+![image](https://github.com/user-attachments/assets/b18ff6d0-2d40-47d9-a3a5-545b7102ba84)
+
+Before: 
+![image](https://github.com/user-attachments/assets/84461c7b-3d86-47df-91c3-ca4cad18388f)
+
+
+After:
+![image](https://github.com/user-attachments/assets/26860282-2167-47a4-bfdc-1829d6ed41c9)
+
+**Time Spent: 60 mins**
+
