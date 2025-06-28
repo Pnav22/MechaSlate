@@ -47,9 +47,10 @@ Manually placed all keycaps and installed everything.
 
 It uses **threaded heat-set inserts (M3 x 5mm x 4mm)** for secure mounting. These inserts are installed into the case.
 
-The top and bottom halves of the keyboard are fastened together using **four M3 x 16mm socket head cap screws (SHCS)**.
+The top and bottom halves of the keyboard are fastened together using **four M3 x 16mm socket head cap screws .
+![image](https://github.com/user-attachments/assets/020e2c2d-5075-4eb0-bcbf-2045da7db447)
 
-![image](https://github.com/user-attachments/assets/784755f5-6b19-4908-a6d8-1e86b115f63b)
+
 
 | Item Name            | Item Source | Quantity | Cost (USD w/ shipping) |
 |----------------------|-------------|----------|-------------------------|
