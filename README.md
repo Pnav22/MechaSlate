@@ -53,6 +53,8 @@ The top and bottom halves of the keyboard are fastened together using **four M3 
 ![image](https://github.com/user-attachments/assets/956c341f-bb28-4eac-b060-3b52cfdd409b)
 
 
+This project has a Gasket Mount 
+![image](https://github.com/user-attachments/assets/535fbefc-ebf0-43ba-805f-6a8c967478ed)
 
 
 
