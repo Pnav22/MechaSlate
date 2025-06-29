@@ -60,15 +60,14 @@ This project has a Gasket Mount
 
 | Item Name            | Item Source | Quantity | Cost (USD w/ shipping) |
 |----------------------|-------------|----------|-------------------------|
-| Akko V3 Creamy Blue  | Amazon      | 80       | $30.98                  |
-| PCB x5 (min quantity)| PCBWay      | –        | $35.00                 |
-| 1N4148 Diodes        | Amazon      | 80       | $5.00                   |
-| Durock V3 Stabilizers| Amazon      | 8        | $15.00                  |
-| Heatset Inserts      | Amazon      | 4        | $7.00                   |
-| Nice_Nano_V2         | Amazon      | 1        | $15.00                  |
-| Keycaps              | Amazon      | 80       | $18.00                  |
+| [Akko V3 Creamy Blue](https://www.amazon.com/s?k=Akko+V3+Creamy+Blue)  | Amazon      | 80       | $30.98                  |
+| [PCB x5 (min quantity)](https://www.pcbway.com)                         | PCBWay      | –        | $35.00                  |
+| [1N4148 Diodes](https://www.amazon.com/s?k=1N4148+Diodes)              | Amazon      | 80       | $5.00                   |
+| [Durock V3 Stabilizers](https://www.amazon.com/s?k=Durock+V3+Stabilizers)| Amazon   | 8        | $15.00                  |
+| [Heatset Inserts](https://www.amazon.com/s?k=M3+Heatset+Insert)        | Amazon      | 4        | $7.00                   |
+| [Nice_Nano_V2](https://www.amazon.com/s?k=Nice+Nano+V2)                | Amazon      | 1        | $15.00                  |
+| [Keycaps](https://www.amazon.com/s?k=DSA+Keycaps+Set)                  | Amazon      | 80       | $18.00                  |
 
 **Total Cost:** **$125.98**
 
----
 
