@@ -3,6 +3,7 @@
 by Pranav M
 
 ---
+<img width="818" height="444" alt="Screenshot 2025-08-07 192703" src="https://github.com/user-attachments/assets/749bcfe8-9334-4b27-8320-2a442a650a3c" />
 
 ## Overview
 **MechaSlate** is my first custom mechanical keyboard project, created from scratch with no prior experience. This build taught me PCB design using KiCad, CAD modeling with Fusion 360, and the use of plugins and scripts to place keyswitches.
