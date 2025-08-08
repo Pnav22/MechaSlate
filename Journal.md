@@ -5,7 +5,7 @@ description: "Custom Built Keyboard"
 created_at: "2025-06-20"
 ---
 
-**Total Time Spent: 900 minutes (15 hours)**
+**Total Time Spent: 1080 minutes (18 hours)**
 
 ---
 
@@ -156,3 +156,12 @@ After:
 
 **Time Spent: 60 mins**
 
+## August 7: IRL build!
+
+![WhatsApp Image 2025-08-08 at 10 25 01_2bf22ea1](https://github.com/user-attachments/assets/d5920497-f167-4d06-879e-20f851525901)
+![WhatsApp Image 2025-08-08 at 10 24 31_b3d29708](https://github.com/user-attachments/assets/9b45d020-b495-43da-8f4a-13131e728a86)
+![WhatsApp Image 2025-08-08 at 10 24 10_54df2d22](https://github.com/user-attachments/assets/d3ed18e8-378c-4606-a966-6a4bdacbb449)
+![WhatsApp Image 2025-08-07 at 19 25 03_bbce36dc](https://github.com/user-attachments/assets/3202c0c1-1ce0-4bb2-9723-6b52f6f918fb)
+
+
+**Time Spent:  180 mins**
